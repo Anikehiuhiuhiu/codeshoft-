@@ -1,0 +1,25 @@
+<header>
+    <div class="container">
+        <a href="#" class="logo">Your Logo</a>
+        <div id="menu-icon">
+            <img src="menu-icon.png" alt="Menu icon">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Features</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#" class="cta">Get Started</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<div class="container">
+    <section id="main">
+        <h1>Welcome to Your Website</h1>
+        <p>This is a simple and clean landing page. You can customize it to suit your needs.</p>
+        <a href="#" class="cta">Learn More</a>
+    </section>
+</div>
